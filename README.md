@@ -1,1 +1,2 @@
 # Automated-File-Organizer
+"COMPANY " : CODETECT IT SOLUTIONS "NAME" : Pratibha Sagar "INTERN ID" : CITS9526 "DOMAIN": PYTHON PROGRAMMING " : 4 WEEKS MENTOR: Neela Santhosh Kumar DESCRITPION of Your project(File Organizer is a desktop app with a dark, modern interface built in Python. It sorts a messy folder, such as Downloads, into category folders: Images, Videos, Audio, Documents, Spreadsheets, Presentations, Archives, Code, Installers and Others. Everything can be previewed first and undone afterwards.)
